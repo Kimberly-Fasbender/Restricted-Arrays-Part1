@@ -23,7 +23,7 @@ end
 # Prints each integer values in the array
 # Time complexity: linear, O(n)
 #                  where n is the number of elements in the array
-# Space complexity: constant, O(n)
+# Space complexity: constant, O(1)
 def print_array(array)
   len = length(array)
 
